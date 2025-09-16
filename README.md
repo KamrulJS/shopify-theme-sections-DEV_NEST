@@ -27,8 +27,6 @@ shopify-theme-sections-DEV_NEST/  <br>
 ├─ config/ # Default settings for sections  <br>
 └─ README.md # Project documentation  <br>
 
-yaml
-Copy code
 
 ---
 
@@ -74,9 +72,6 @@ Open a Pull Request
 This repository is licensed under the MIT License.
 
 Made with ❤️ for DEV_NEST projects
-
-pgsql
-Copy code
 
 This version is **complete Markdown**: includes headings, badges, code blocks, and structured sections—ready for GitHub.  
 
