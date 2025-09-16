@@ -19,13 +19,13 @@ A collection of reusable Shopify theme sections for **DEV_NEST** projects. These
 
 ## 📂 Repository Structure
 
-shopify-theme-sections-DEV_NEST/
-│
-├─ sections/ # Shopify theme sections
-├─ assets/ # CSS, JS, and media files
-├─ snippets/ # Reusable snippets (optional)
-├─ config/ # Default settings for sections
-└─ README.md # Project documentation
+shopify-theme-sections-DEV_NEST/  <br>
+│ <br>
+├─ sections/ # Shopify theme sections  <br>
+├─ assets/ # CSS, JS, and media files  <br>
+├─ snippets/ # Reusable snippets (optional)  <br>
+├─ config/ # Default settings for sections  <br>
+└─ README.md # Project documentation  <br>
 
 yaml
 Copy code
